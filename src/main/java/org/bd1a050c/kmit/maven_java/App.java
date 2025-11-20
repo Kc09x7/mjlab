@@ -17,7 +17,7 @@ public class App {
             System.out.println("5) Modulo");
             System.out.println("6) Power");
             System.out.println("7) Exit");
-            System.out.print("Choose an option (1-7): ");
+            System.out.print("Choose an option (1-69): ");
             int choice = sc.nextInt();
             if (choice == 7) {
                 System.out.println("Exiting... Goodbye!");
