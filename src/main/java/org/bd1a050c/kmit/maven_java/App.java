@@ -20,7 +20,7 @@ public class App {
             System.out.print("Choose an option (1-69): ");
             int choice = sc.nextInt();
             if (choice == 7) {
-                System.out.println("Exiting... Goodifidfbye!");
+                System.out.println("Exiting... fhGoodifidfbye!");
                 break;
             }
             System.out.print("Enter first number: ");
