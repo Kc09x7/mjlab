@@ -11,7 +11,7 @@ public class App {
         while (true) {
             System.out.println("\n==== Simple Calculator ====");
             System.out.println("1) Additions and test change");
-            System.out.println("2) Subtraction test jenkins");
+            System.out.println("2) Subtraction test jenkins testing");
             System.out.println("3) Multiplication");
             System.out.println("4) Division");
             System.out.println("5) Modulo");
